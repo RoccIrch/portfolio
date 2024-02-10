@@ -1,7 +1,13 @@
+import About from "@/Componnent/about/About";
+import Header from "@/Componnent/header/Header";
+
 export default function index() {
   return (
-    <div>
-      
-    </div>
+    <>
+      <Header />
+      <main>
+        <About />
+      </main>
+    </>
   )
 }

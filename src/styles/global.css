@@ -1,0 +1,15 @@
+:root {
+    --bg: #f2eeeb;
+    --text: #211e1c;
+    --green: #394139;
+    --brown: #423c38;
+}
+* {
+    margin: 0;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    color: var(--text);
+    /*background-color: var(--bg);*/
+}
+
